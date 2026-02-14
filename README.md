@@ -17,3 +17,5 @@
 ## Deployment
 
 This backend is configured for Railway deployment using nixpacks.toml.
+
+My Healthcheck is here :)
